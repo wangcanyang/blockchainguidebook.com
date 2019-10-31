@@ -13,6 +13,7 @@
 - [比特币浏览器](https://btc.bitaps.com)
 - [比特币区块数据](https://coin.dance/blocks)
 - [比特币链上数据](https://chain.info)
+- [比特币链上数据2](http://data.bitcoinity.org)
 - [比特币全球节点](https://bitnodes.earn.com)
 - [比特币论坛](https://bitcointalk.org)
 - [比特币转账类型统计](https://p2sh.info/dashboard)
@@ -50,14 +51,20 @@
 - [借贷数据](https://loanscan.io)
 - [Dai数据](https://daistats.com)
 
-
-
-
-
-
-
-
-
-
-
+>市场数据
+- [POW51攻击成本数据](https://www.crypto51.app)
+- [市场情绪指标](https://alternative.me/crypto/fear-and-greed-index/)
+- [加密货币方块矩阵coin360](https://coin360.com)
+- [链上活跃度指标](https://blocktivity.info)
+- [加密货币市场评级BTI](http://www.bti.live)
+- [代币数据网站TokenData](https://www.tokendata.io)
+- [加密资产数据分析报告Diar](https://www.crypto51.app)
+- [数据导航网站Messari](https://messari.io)
+- [链上历史数据CM](https://coinmetrics.io/data-downloads/)
+- [加密货币链上数据bitinfocharts](https://bitinfocharts.com/zh/)
+- [加密货币市场行情CoinCheckup](https://coincheckup.com)
+- [加密货币市场行情Coinmarketcap](https://coinmarketcap.com/zh/)
+- [加密货币市场行情Coinpaprika](https://coinpaprika.com/zh/)
+- [加密货币市场行情Coingecko](https://www.coingecko.com/zh/)
+- [加密货币市场行情CryptoCompare](https://www.cryptocompare.com)
 
