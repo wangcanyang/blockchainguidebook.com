@@ -1,2 +1,2 @@
 * [首页](/)
-* [讨论](https://github.com/wangcanyang/blockchainguidebook.com/issues)
+* [微博](https://weibo.com/jacobmicroblog)
