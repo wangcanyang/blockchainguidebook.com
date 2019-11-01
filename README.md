@@ -113,4 +113,5 @@
 - [加密货币市场行情CryptoCompare](https://www.cryptocompare.com)
 
 ## 关于作者
-王灿阳
+王灿阳，区块链科普作者，终生学习者。
+欢迎添加我的个人微信
