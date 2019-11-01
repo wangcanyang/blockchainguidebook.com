@@ -116,4 +116,4 @@
 ## 关于作者
 王灿阳，区块链科普作者，终生学习者。
 欢迎添加我的个人微信，共同交流和学习：
-![](images/wechat0.jpeg)
+![](images/wechat_captainblock.jpeg)
