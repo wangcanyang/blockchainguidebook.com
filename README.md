@@ -65,6 +65,6 @@
 - [加密货币市场行情CoinCheckup](https://coincheckup.com)
 - [加密货币市场行情Coinmarketcap](https://coinmarketcap.com/zh/)
 - [加密货币市场行情Coinpaprika](https://coinpaprika.com/zh/)
-- [加密货币市场行情Coingecko](https://www.coingecko.com/zh/)
+- [加密货币市场行情CoinGecko](https://www.coingecko.com/zh/)
 - [加密货币市场行情CryptoCompare](https://www.cryptocompare.com)
 
