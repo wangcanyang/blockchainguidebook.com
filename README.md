@@ -7,8 +7,10 @@
 ## 写在前面
 >作为在区块链行业呆了近三年的从业者，我一直想找个机会好好复盘和整理有关区块链和加密货币的知识。我深知“圈外人”对区块链充满着好奇又不甚理解，这本[区块链入门指南](http://www.blockchainguidebook.com)旨在解释区块链的概念以及还原加密世界的全貌，希望能为想学习了解区块链的朋友提供一个快速学习的捷径。在此还要感谢李笑来老师在Github上开源的网站代码，让我这个编程小白也能有机会自己开设网站写作本书。也推荐大家去读读李笑来老师的[区块链小白书](http://www.blockchainlittlebook.com)，相信会给你带来一些帮助。
 
+## 
+
 ## 一些有用的网站
->比特币
+>**比特币**
 - [比特币中文白皮书](https://docs.google.com/file/d/0B1UsG65HCLkuOGNkMDZmMzYtZTQ0OC00OGVmLTk2MGItODBkNjA0MDEwYjkw/edit?hl=en)
 - [比特币浏览器](https://btc.bitaps.com)
 - [比特币区块数据](https://coin.dance/blocks)
@@ -21,14 +23,14 @@
 - [闪电网络数据查询](https://1ml.com)
 - [全球交易所比特币交易量数据（Bitwise统计）](https://www.bitcointradevolume.com)
 
->以太坊
+>**以太坊**
 - [以太坊浏览器](https://etherscan.io)
 - [以太坊网络状态监控](https://ethstats.net)
 - [以太坊加油站](https://ethgasstation.info)
 - [以太坊爱好者社区](https://ethfans.org/wikis/Home)
 - [以太坊浏览器](https://etherscan.io)
 
->EOS
+>**EOS**
 - [EOS浏览器 by EOSCAFE & HKEOS）](https://bloks.io)
 - [EOS浏览器 by EOSflare ](https://eosflare.io)
 - [EOS浏览器 by EOSpark](https://eospark.com)
@@ -38,20 +40,20 @@
 - [EOS网络状态监控](https://eosnetworkmonitor.io)
 - [EOS资源计算 by EOS Newyork](https://www.eoscharge.io)
 
->Dapp
+>**Dapp**
 - [DappRadar](https://dappradar.com)
 - [DAppReview](https://dapp.review/explore)
 - [DAppTotal](https://www.dapptotal.com)
 - [Dapp77](https://www.dapp77.com)
 - [SpiderData](https://www.spiderdata.com/players)
 
->Defi
+>**Defi**
 - [质押分红查询](https://www.stakingrewards.com)
 - [稳定币指数](http://stablecoinindex.com)
 - [借贷数据](https://loanscan.io)
 - [Dai数据](https://daistats.com)
 
->市场数据
+>**市场数据**
 - [POW51攻击成本数据](https://www.crypto51.app)
 - [市场情绪指标](https://alternative.me/crypto/fear-and-greed-index/)
 - [加密货币方块矩阵coin360](https://coin360.com)
