@@ -1,6 +1,6 @@
 # 区块链入门指南
 
-灿阳（著）&copy; 2019
+王灿阳（著）&copy; 2019
 
 -----
 
@@ -114,6 +114,6 @@
 - [加密货币市场行情CryptoCompare](https://www.cryptocompare.com)
 
 ## 关于作者
-灿阳，区块链科普作者，终生学习者。
+王灿阳，区块链科普作者，终生学习者。
 欢迎添加我的个人微信，共同交流和学习：
 ![](images/wechat_captainblock.jpeg)
