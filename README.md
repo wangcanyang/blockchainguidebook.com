@@ -46,7 +46,10 @@
 ## Defi
 ### 什么是Defi
 ### 什么是稳定币
-### 有哪些好玩
+
+## DAO
+### DAO是什么
+### 有哪些典型的DAO组织形式
 
 ## 一些有用的网站
 >**比特币**
@@ -109,3 +112,5 @@
 - [加密货币市场行情CoinGecko](https://www.coingecko.com/zh/)
 - [加密货币市场行情CryptoCompare](https://www.cryptocompare.com)
 
+## 关于作者
+王灿阳
