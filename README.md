@@ -9,6 +9,7 @@
 
 ## 比特币
 ### 什么是比特币
+[比特币是什么？（作者：江卓尔）](https://www.zhihu.com/question/22076666/answer/69638270)
 ### 什么是比特币挖矿
 ### 如何使用比特币转账
 ### 如何拥有一枚比特币
@@ -23,7 +24,7 @@
 ### WEB3.0
 
 ## 关于挖矿
-[个人挖矿投资指南](https://mubu.com/doc/1nD-isBIWw)
+[个人挖矿投资指南（作者：深蓝deeplove）](https://mubu.com/doc/1nD-isBIWw)
 ### 矿池
 ### 矿机
 ### 云算力
