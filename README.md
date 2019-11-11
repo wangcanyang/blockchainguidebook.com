@@ -9,6 +9,7 @@
 
 ## 比特币
 ### 什么是比特币
+[精通比特币（中文第二版）](http://v1.8btc.com/books/834/masterbitcoin2cn/_book/preface.html)
 [比特币是什么？（作者：江卓尔）](https://www.zhihu.com/question/22076666/answer/69638270)
 ### 什么是比特币挖矿
 ### 如何使用比特币转账
